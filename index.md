@@ -123,3 +123,11 @@ Several technological advancements will shape Ethernet WLAN in the future:
 Ethernet WLAN plays a crucial role in modern networking, providing **secure, fast, and flexible** connectivity. As technology advances, key innovations—such as Wi-Fi 7, 5G integration, AI-driven security, and IoT expansion—will continue to enhance its functionality.
 
 The increasing reliance on **cloud computing, smart cities, and high-speed networks** ensures that hybrid Ethernet-WLAN solutions will remain vital in both personal and professional settings, supporting the demands of an increasingly digital world.
+
+---
+
+## Sources
+
+- B. P. Crow, I. Widjaja, J. G. Kim, and P. T. Sakai, "IEEE 802.11 Wireless Local Area Networks," in *IEEE Communications Magazine*, vol. 35, no. 9, pp. 116-126, Sept. 1997, doi: [10.1109/35.620533](https://doi.org/10.1109/35.620533).
+- "IEEE Standard for Ethernet," in *IEEE Std 802.3-2022* (Revision of IEEE Std 802.3-2018), vol., no., pp.1-7025, 29 July 2022, doi: [10.1109/IEEESTD.2022.9844436](https://doi.org/10.1109/IEEESTD.2022.9844436).
+
