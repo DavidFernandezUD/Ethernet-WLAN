@@ -1,4 +1,4 @@
-# Ethernet vs. WLAN
+# Ethernet and WLAN
 
 ## Why is the Selected Topic Important in Networking?
 
@@ -13,7 +13,6 @@ The combination of Ethernet and WLAN is crucial for integrating wired and wirele
 - **Traffic Management:** Prioritizes network traffic to prevent congestion.
 - **Enhanced Security:** New protocols like WPA3 improve network safety.
 
-### Conclusion
 Having a hybrid network that combines Ethernet and WLAN is essential for secure, fast, and efficient connectivity—especially in a world where remote work and online education are more common.
 
 ---
